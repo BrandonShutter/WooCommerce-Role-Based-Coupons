@@ -1,0 +1,9 @@
+
+{
+  "name": "shutter/woocommerce-role-based-coupons",
+  "description": "Exclude Wordpress User Roles from using certain WooCommerce Coupons.",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0.12"
+  }
+}
